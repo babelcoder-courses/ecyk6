@@ -1,0 +1,8 @@
+{
+  "words": [
+    { "id": 1, "word": "Ipsum1" },
+    { "id": 2, "word": "Ipsum2" },
+    { "id": 3, "word": "Lorem1" },
+    { "id": 4, "word": "Lorem2" }
+  ]
+}

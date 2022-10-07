@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2,
+    "[typescript]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    }
+}
